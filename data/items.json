@@ -1,0 +1,54 @@
+[
+  {
+    "item_id": 1,
+    "item_name": "Samsung 4K Smart TV 55\"",
+    "item_category": "Electronics",
+    "item_subcategory": "Televisions",
+    "item_condition": "like new",
+    "purchase_price": 45000,
+    "sale_price": 55000,
+    "quantity_in_stock": 5,
+    "purchase_date": "2024-01-15",
+    "profit_margin": 10000,
+    "description": "55-inch 4K Smart TV with HDR"
+  },
+  {
+    "item_id": 2,
+    "item_name": "Leather Sofa Set",
+    "item_category": "Furniture",
+    "item_subcategory": "Sofas",
+    "item_condition": "new",
+    "purchase_price": 75000,
+    "sale_price": 95000,
+    "quantity_in_stock": 3,
+    "purchase_date": "2024-01-10",
+    "profit_margin": 20000,
+    "description": "3-seater leather sofa with cushions"
+  },
+  {
+    "item_id": 3,
+    "item_name": "Yamaha MT-07 Motorcycle",
+    "item_category": "Motorcycles",
+    "item_subcategory": "Street Bikes",
+    "item_condition": "refurbished",
+    "purchase_price": 720000,
+    "sale_price": 850000,
+    "quantity_in_stock": 2,
+    "purchase_date": "2024-01-05",
+    "profit_margin": 130000,
+    "description": "689cc parallel-twin motorcycle"
+  },
+  {
+    "item_id": 4,
+    "item_name": "Mountain Bike",
+    "item_category": "Bicycles",
+    "item_subcategory": "Mountain Bikes",
+    "item_condition": "gently used",
+    "purchase_price": 15000,
+    "sale_price": 22000,
+    "quantity_in_stock": 8,
+    "purchase_date": "2024-01-12",
+    "profit_margin": 7000,
+    "description": "21-speed mountain bike with suspension"
+  }
+]

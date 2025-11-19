@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "subcategories": [
+      "Televisions",
+      "Remote Controls",
+      "Routers",
+      "Iron Boxes",
+      "Light Bulbs",
+      "Aerials",
+      "Smartphones",
+      "Laptops"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Furniture",
+    "subcategories": [
+      "Sofas",
+      "Chairs",
+      "Tables",
+      "Beds",
+      "Wardrobes",
+      "Desks",
+      "Bookshelves"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Motorcycles",
+    "subcategories": [
+      "Street Bikes",
+      "Cruisers",
+      "Sport Bikes",
+      "Scooters",
+      "Off-road"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bicycles",
+    "subcategories": [
+      "Mountain Bikes",
+      "Road Bikes",
+      "Hybrid Bikes",
+      "Electric Bikes",
+      "BMX"
+    ]
+  }
+]
